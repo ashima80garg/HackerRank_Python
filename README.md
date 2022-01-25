@@ -1,64 +1,80 @@
+<!-- Headings -->
 # Heading 1
-## heading 2
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-*This is italics*
+<!-- Italics -->
+*This text* is italic
 
-_This is also italics_
+_This text_ is italic
 
-**This is strong**
+<!-- Strong -->
+**This text** is italic
 
-__This is also Strong__
+__This text__ is italic
 
-~~This is strike text
+<!-- Strikethrough -->
+~~This text~~ is strikethrough
+
+<!-- Horizontal Rule -->
 
 ---
-
 ___
 
-> This is Blockquote
+<!-- Blockquote -->
+> This is a quote
 
-> this is indicated 
+<!-- Links -->
+[Traversy Media](http://www.traversymedia.com)
 
-[Click here](https://www.google.com)
+[Traversy Media](http://www.traversymedia.com "Traversy Media")
 
-*Item1
+<!-- UL -->
+* Item 1
+* Item 2
+* Item 3
+  * Nested Item 1
+  * Nested Item 2
 
-*Item 2
+<!-- OL -->
+1. Item 1
+1. Item 2
+1. Item 3
 
-    *Item 2.1
+<!-- Inline Code Block -->
+`<p>This is a paragraph</p>`
 
-1. item1
-1. item2
-1. item3
-    1. item3.1
-    
-'<p> this is a paragraph <p>'
+<!-- Images -->
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-![click here](C:\Users\Dell\OneDrive - DAV Public School\Desktop)
+<!-- Github Markdown -->
 
+<!-- Code Blocks -->
+```bash
+  npm install
 
-| Name | Email |
-|------|-------|
-|Ashima| ashimagarg0@gmail.com|
-| Name2| mail2|
-
-* [x] Task 1 completed
-
-* [x] Task 2 completed
-
-* [x] Task 3 Still remains
-
-
-```
-
-print("Hello world!!")
-
+  npm start
 ```
 
 
 
+```
 
+  def add(num1, num2):
+    return num1 + num2
+
+```
+
+<!-- Tables -->
+| Name     | Email          |
+| -------- | -------------- |
+| John Doe | john@gmail.com |
+| Jane Doe | jane@gmail.com |
+
+<!-- Task List -->
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
