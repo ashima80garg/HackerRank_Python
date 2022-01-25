@@ -38,26 +38,26 @@ ___
     
 '<p> this is a paragraph <p>'
 
-![click here](https://images.app.goo.gl/rXp632ANbeqas4PUA)
+![click here](C:\Users\Dell\OneDrive - DAV Public School\Desktop)
 
-'''python
 
-   def add(num1, num2):
-
-        print(num1+num2)
-'''
 | Name | Email |
 |------|-------|
 |Ashima| ashimagarg0@gmail.com|
 | Name2| mail2|
 
-*[X] Task 1 completed
+* [x] Task 1 completed
 
-*[X] Task 2 completed
+* [x] Task 2 completed
 
-*[X] Task 3 Still remains
+* [x] Task 3 Still remains
 
 
+```
+
+print("Hello world!!")
+
+```
 
 
 
