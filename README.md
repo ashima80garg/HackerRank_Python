@@ -1,10 +1,10 @@
-## Solutions of Python Hackerrank questions.
+## This repository contains solutions of python hackerrank questions
 ---
-<p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
-
-> This repository contains solutions of python hackerrank questions
+<p align="center"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></p>
 
 Challenges can be found here....[Python Hackerrank Challenges](https://www.hackerrank.com/domains/python)
+
+<p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" ></p>
 
 # Python Solutions
 
