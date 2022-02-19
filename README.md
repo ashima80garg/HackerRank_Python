@@ -4,7 +4,6 @@
 
 Challenges can be found here....[Python Hackerrank Challenges](https://www.hackerrank.com/domains/python)
 
-<p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" ></p>
 
 # Python Solutions
 
@@ -23,5 +22,7 @@ Challenges can be found here....[Python Hackerrank Challenges](https://www.hacke
 | Basic Data Types | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true) | [11. FindingThePercentage.py ](https://github.com/ashima80garg/HackerRank_Python/blob/main/11.%20FindingThePercentage.py) |
 | Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) | [12. Lists.py  ](https://github.com/ashima80garg/HackerRank_Python/blob/main/12.%20Lists.py) |
 | Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true) | [13. Tuples.py](https://github.com/ashima80garg/HackerRank_Python/blob/main/13.%20Tuples.py) |
-
+| Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [14. Swap Case.py](https://github.com/ashima80garg/HackerRank_Python/blob/main/14.%20Swap%20Case.py) |
+| Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) | [15. Split and Join.py](https://github.com/ashima80garg/HackerRank_Python/blob/main/15.%20Split%20and%20Join.py) |
+| Strings | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [16. Whats your name.py ](https://github.com/ashima80garg/HackerRank_Python/blob/main/16.%20Whats%20your%20name.py) |
 
