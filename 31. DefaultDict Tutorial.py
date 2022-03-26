@@ -4,10 +4,10 @@ list1=[]
 
 n, m = map(int,input().split())
 
-for i in range(0,n):
+for i in range(n):
     d[input()].append(i+1) 
 
-for i in range(0,m):
+for i in range(m):
     list1=list1+[input()]  
 
 for i in list1: 
