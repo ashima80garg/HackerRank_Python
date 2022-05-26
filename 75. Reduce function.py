@@ -1,0 +1,17 @@
+from fractions import Fraction
+from functools import reduce
+
+
+def prod(x, y):
+    return x * y
+
+def product(fracs):
+    t = reduce(prod,fracs)# complete this line with a reduce statement
+    return t.numerator, t.denominator
+
+if __name__ == '__main__':
+    fracs = []
+    for _ in range(int(input())):
+        fracs.append(Fraction(*map(int, input().split())))
+    result = product(fracs)
+    print(*result)
